@@ -22,8 +22,6 @@
     <?php include 'two.php'; ?>
     <!-- Three -->
     <?php include 'three.php'; ?>
-    <!-- Four -->
-    <?php include 'four.php'; ?>
   </div>
   <!-- Footer -->
   <?php include 'footer.php'; ?>
