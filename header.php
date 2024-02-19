@@ -2,9 +2,8 @@
     <a href="index.html" class="title">Home</a>
     <nav>
         <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="generic.php" class="active">Generic</a></li>
-            <li><a href="elements.php">Elements</a></li>
+            <li><a href="index.php" class="active">Home</a></li>
+            <li><a href="#three">Contact</a></li>
         </ul>
     </nav>
 </header>
